@@ -1,1 +1,1 @@
-# -6companies30Days_Challenge
+# 6companies30Days_Challenge
