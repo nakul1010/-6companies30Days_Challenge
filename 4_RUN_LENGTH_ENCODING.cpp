@@ -24,5 +24,4 @@ string encode(string str)
     }
     ans += curr_char + to_string(curr_cnt);
     return ans;
-}     
- 
+}    
